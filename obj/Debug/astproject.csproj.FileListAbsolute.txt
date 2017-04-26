@@ -1,0 +1,9 @@
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\bin\Debug\astproject.exe.config
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.Form1.resources
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.Properties.Resources.resources
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\bin\Debug\astproject.exe
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\bin\Debug\astproject.pdb
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.exe
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.pdb
+C:\Users\mustafa\Desktop\C# applications\project_14\AST-c#-Project\project\astproject\astproject\obj\Debug\astproject.csprojResolveAssemblyReference.cache
